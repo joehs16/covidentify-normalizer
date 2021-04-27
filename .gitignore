@@ -1,0 +1,11 @@
+workspace_config/cfg.ini
+.amlignore
+.DS_Store
+input_csv/
+output_csv/
+logs/
+.ipynb_checkpoints
+AzureNormalizer/__pycache__/
+AzureNormalizer/.ipynb_checkpoints
+AzureNormalizer/.amlignore
+AzureNormalizer/.ipynb_aml_checkpoints
